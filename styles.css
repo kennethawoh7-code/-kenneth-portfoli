@@ -1,0 +1,59 @@
+
+h1 {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+}
+h2 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+ 
+}
+.frits-section{
+  background-color: #e4f9f5;
+  position:relative ;
+  padding: 100px;
+
+}
+.angela{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.middle-container{
+margin-top: 50px;
+}
+.fax{
+  margin-top: 200px;
+}
+.cat{
+  margin-right: 1000px;
+  margin-top: 20px;
+
+}
+.fax{
+  margin-top: -10px;
+}
+.ken{
+  margin-top: 2px;
+}
+.kk{
+  margin-right:1000px ;
+  margin-bottom: 15px;
+  size-adjust: 110px;
+  }
+.mat{
+  margin-right: 100px;
+  text-align: center;
+}
+
